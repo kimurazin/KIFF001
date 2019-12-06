@@ -1,5 +1,5 @@
 # start from base
-FROM centos:latest
+FROM centos7
 
 # expose port
-EXPOSE 5000
+EXPOSE 3000
